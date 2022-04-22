@@ -1,0 +1,1 @@
+/data/data/com.termux/files/usr/bin/postgres "-D" "/data/data/com.termux/files/home/.msf4/db" "-p" "5433"

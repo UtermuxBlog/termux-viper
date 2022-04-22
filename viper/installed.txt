@@ -1,0 +1,1 @@
+rust autoconf automake build-essential bzip2 diffutils gnupg dos2unix e2fsprogs fakeroot findutils geoip2-database smalltalk icu-devtools iproute2 krb5 less manpages mime-support debpac nginx perl pkg-config procps readline sed sensible-utils shared-mime-info tar tmux unzip uwsgi xz-utils

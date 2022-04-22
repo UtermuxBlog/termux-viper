@@ -1,0 +1,33 @@
+2022-04-16 09:20:59.359 CST [21979] LOG:  starting PostgreSQL 14.2 on aarch64-unknown-linux-android, compiled by Android (7714059, based on r416183c1) clang version 12.0.8 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), 64-bit
+2022-04-16 09:20:59.361 CST [21979] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2022-04-16 09:20:59.372 CST [21979] LOG:  listening on Unix socket "/data/data/com.termux/files/usr/tmp/.s.PGSQL.5433"
+2022-04-16 09:20:59.395 CST [21983] LOG:  database system was shut down at 2022-04-16 09:20:57 CST
+2022-04-16 09:20:59.422 CST [21979] LOG:  database system is ready to accept connections
+2022-04-16 09:21:06.672 CST [21979] LOG:  received fast shutdown request
+2022-04-16 09:21:06.676 CST [21979] LOG:  aborting any active transactions
+2022-04-16 09:21:06.682 CST [21979] LOG:  background worker "logical replication launcher" (PID 21989) exited with exit code 1
+2022-04-16 09:21:06.684 CST [21984] LOG:  shutting down
+2022-04-16 09:21:06.727 CST [21979] LOG:  database system is shut down
+2022-04-16 09:21:07.003 CST [22019] LOG:  starting PostgreSQL 14.2 on aarch64-unknown-linux-android, compiled by Android (7714059, based on r416183c1) clang version 12.0.8 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), 64-bit
+2022-04-16 09:21:07.005 CST [22019] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2022-04-16 09:21:07.017 CST [22019] LOG:  listening on Unix socket "/data/data/com.termux/files/usr/tmp/.s.PGSQL.5433"
+2022-04-16 09:21:07.040 CST [22023] LOG:  database system was shut down at 2022-04-16 09:21:06 CST
+2022-04-16 09:21:07.059 CST [22019] LOG:  database system is ready to accept connections
+2022-04-16 09:36:23.807 CST [26256] LOG:  starting PostgreSQL 14.2 on aarch64-unknown-linux-android, compiled by Android (7714059, based on r416183c1) clang version 12.0.8 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), 64-bit
+2022-04-16 09:36:23.818 CST [26256] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2022-04-16 09:36:23.831 CST [26256] LOG:  listening on Unix socket "/data/data/com.termux/files/usr/tmp/.s.PGSQL.5433"
+2022-04-16 09:36:23.878 CST [26266] LOG:  database system was interrupted; last known up at 2022-04-16 09:21:07 CST
+2022-04-16 09:36:24.972 CST [26266] LOG:  database system was not properly shut down; automatic recovery in progress
+2022-04-16 09:36:24.984 CST [26266] LOG:  redo starts at 0/16FF688
+2022-04-16 09:36:25.152 CST [26266] LOG:  invalid record length at 0/1985990: wanted 24, got 0
+2022-04-16 09:36:25.153 CST [26266] LOG:  redo done at 0/1985900 system usage: CPU: user: 0.09 s, system: 0.04 s, elapsed: 0.16 s
+2022-04-16 09:36:26.395 CST [26256] LOG:  database system is ready to accept connections
+2022-04-16 09:40:31.729 CST [26256] LOG:  received smart shutdown request
+2022-04-16 09:40:31.761 CST [26256] LOG:  background worker "logical replication launcher" (PID 26413) exited with exit code 1
+2022-04-16 09:40:31.762 CST [26408] LOG:  shutting down
+2022-04-16 09:40:31.887 CST [26256] LOG:  database system is shut down
+2022-04-16 12:58:01.404 CST [8854] LOG:  starting PostgreSQL 14.2 on aarch64-unknown-linux-android, compiled by Android (7714059, based on r416183c1) clang version 12.0.8 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), 64-bit
+2022-04-16 12:58:01.408 CST [8854] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2022-04-16 12:58:01.415 CST [8854] LOG:  listening on Unix socket "/data/data/com.termux/files/usr/tmp/.s.PGSQL.5433"
+2022-04-16 12:58:01.444 CST [8866] LOG:  database system was shut down at 2022-04-16 09:40:31 CST
+2022-04-16 12:58:01.474 CST [8854] LOG:  database system is ready to accept connections

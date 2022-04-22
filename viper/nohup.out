@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/bin/daphne", line 8, in <module>
+    sys.exit(CommandLineInterface.entrypoint())
+  File "/data/data/com.termux/files/usr/lib/python3.10/site-packages/daphne/cli.py", line 170, in entrypoint
+    cls().run(sys.argv[1:])
+  File "/data/data/com.termux/files/usr/lib/python3.10/site-packages/daphne/cli.py", line 226, in run
+    access_log_stream = open(args.access_log, "a", 1)
+FileNotFoundError: [Errno 2] No such file or directory: '{LOGDIR}/daphne.log'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/bin/daphne", line 8, in <module>
+    sys.exit(CommandLineInterface.entrypoint())
+  File "/data/data/com.termux/files/usr/lib/python3.10/site-packages/daphne/cli.py", line 170, in entrypoint
+    cls().run(sys.argv[1:])
+  File "/data/data/com.termux/files/usr/lib/python3.10/site-packages/daphne/cli.py", line 226, in run
+    access_log_stream = open(args.access_log, "a", 1)
+FileNotFoundError: [Errno 2] No such file or directory: '{LOGDIR}/daphne.log'
